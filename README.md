@@ -4,6 +4,8 @@
 
 ### A Telegram Video CompressorBot  
 
+contact me in telegram https://t.me/bereketx
+
 - it compress videos with negligible Quality change.
 - u can generate sample Compressed videos nd screenshots too.
 - u can set custom video name nd Thumbnail.
